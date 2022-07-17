@@ -1,4 +1,3 @@
-from email import message
 from selenium import webdriver as wd
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
