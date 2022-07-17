@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import selenium.common.exceptions as expections
 from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup as BS
 import time
 
 
