@@ -2,7 +2,7 @@
 LinkedInConnect is an automation script used to connect with people on LinkedIn. Script is used to expand user's network on linkedIn through automation.
 
 # Tech Stack
-Since this is just a Python script. The scipt rquires Python3, selenium and chrome webdriver.
+The script requires Python3, selenium and chrome webdriver.
 
 
 # Required changes from the user
